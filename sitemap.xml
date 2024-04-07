@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/how-i-got-into-cyber/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/homelab/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/burnout/burnout/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/cyber-security-engineer/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/hello-world/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/whoami/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/index/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

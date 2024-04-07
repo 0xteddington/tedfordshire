@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$ ~/how_i_got_into_cyber_security</title>
+      <link>/post/how-i-got-into-cyber/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/post/how-i-got-into-cyber/</guid>
+      <description>My journey into cyber security started in Jan 2021, when after failing my CCNA for my current role as a Network Administrator and generally feeling a loss of motivation and drive, I decided that a new path was what I needed.
+I have many ex-colleagues that have moved into cyber security already and have a few years of experience to give me a no filtered view of what life in cyber would be really like.</description>
+    </item>
+    <item>
+      <title>$ ~/homelab_v1</title>
+      <link>/post/homelab/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/post/homelab/</guid>
+      <description>There are many ways of learning skills in technology and personally, I like to learn by practical vs theory, and installing an application or installing hardware can be one of the best ways to get hands-on experience.
+However, we don’t all have access to enterprise equipment and a large data centre with full network stacks and aircon to keep it all cool.
+But you can get pretty close these days with VMs, Cloud infra and some old hardware from eBay or old computer fairs.</description>
+    </item>
+    <item>
+      <title>$ ~/burnout</title>
+      <link>/post/burnout/burnout/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/post/burnout/burnout/</guid>
+      <description>Photo by Tara Winstead:
+2021 was a rough year for many people, and for me, it was a year of illness, stress and that new term on the block burnout.
+I have always been a “guns blazing” full-throttle kind of worker, giving every company I have worked for 100% of me, long hours, late nights, callouts and going the extra mile became the norm. On average, I worked 70-80 hours per week (contracted for 35 hours per week), working days, nights and most weekends.</description>
+    </item>
+    <item>
+      <title>$ ~/Cyber_Security_Engineer</title>
+      <link>/post/cyber-security-engineer/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/post/cyber-security-engineer/</guid>
+      <description>What’s one of them? Job titles can mean a lot of things these days and the job descriptions of these titles can be varied in duties, technologies, and responsibilities. So my first piece of advice is, ALWAYS read the job descriptions carefully and don’t take job titles for granted.
+In this post, I will overview my role and some of the things I do in the good fight in the world of cyber.</description>
+    </item>
+    <item>
+      <title>$ ~/HELLO_WORLD</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/hello-world/</guid>
+      <description>This is my first blog and I thought that I would start to give back to the information technology community some of my experiences and knowledge.
+I have also begun a journey into the world of Cyber Security/Information Security and I plan to share my journey with the inter-webs!
+I’m not saying I am an all-knowing deity by any means (in fact far from it), simply sharing things I have learned through experience.</description>
+    </item>
+    <item>
+      <title>$ whoami</title>
+      <link>/whoami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/whoami/</guid>
+      <description>👋 Hi, I’m Ted – a Security Engineer from the UK. After studying various subjects in school, I took my first job as an admin clerk, then moved my way through different IT jobs to get to where I am today!
+I am now working as a Blue Teamer in Security Engineering looking after security tools, applications and data gathering for the Security Operations Centre (SOC). This site is about my journey and to provide some insight into how I walked my career path to help you walk yours hopefully.</description>
+    </item>
+  </channel>
+</rss>
