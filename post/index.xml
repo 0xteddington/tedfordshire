@@ -6,8 +6,15 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$ ~/privacy</title>
+      <link>/post/privacy/privacy/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/post/privacy/privacy/</guid>
+      <description>&lt;p&gt;The internet is a wonder of the modern world. It can bring a wealth of information and communication to our fingertips, keeping us connected and informed daily and every hour.&lt;/p&gt;&#xA;&lt;p&gt;However, there is a darker side to the internet that is all too familiar in the news nowadays, where big corporations and hackers collect, steal, or sell our data.&lt;/p&gt;&#xA;&lt;p&gt;How often have you been conversing with your family or friends and suddenly started seeing adverts for the same subject later on your phone via social apps or websites you browse?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>$ ~/how_i_got_into_cyber_security</title>
       <link>/post/how-i-got-into-cyber/</link>

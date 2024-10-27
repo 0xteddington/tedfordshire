@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$ ~/privacy</title>
+      <link>/post/privacy/privacy/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/post/privacy/privacy/</guid>
+      <description>&lt;p&gt;The internet is a wonder of the modern world. It can bring a wealth of information and communication to our fingertips, keeping us connected and informed daily and every hour.&lt;/p&gt;&#xA;&lt;p&gt;However, there is a darker side to the internet that is all too familiar in the news nowadays, where big corporations and hackers collect, steal, or sell our data.&lt;/p&gt;&#xA;&lt;p&gt;How often have you been conversing with your family or friends and suddenly started seeing adverts for the same subject later on your phone via social apps or websites you browse?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>$ ~/how_i_got_into_cyber_security</title>
       <link>/post/how-i-got-into-cyber/</link>
@@ -48,7 +55,7 @@
       <link>/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/whoami/</guid>
-      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;../Avatar2.png&#34; alt=&#34;avatar&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;👋 Hi, I’m Ted – a Security Engineer from the UK.&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;After studying various subjects in school, I took my first job as an admin clerk, then moved my way through different IT jobs to get to where I am today!&lt;/p&gt;&#xA;&lt;p&gt;I am now working as a Blue Teamer in Security Engineering looking after security tools, applications and data gathering for the Security Operations Centre (SOC).&#xA;This site is about my journey and to provide some insight into how I walked my career path to help you walk yours hopefully.&lt;/p&gt;</description>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;img src=&#34;../Avatar.png&#34; alt=&#34;avatar&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;👋 Hi, I’m Ted – a Security Engineer from the UK.&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;After studying various subjects in school, I took my first job as an admin clerk, then moved my way through different IT jobs to get to where I am today!&lt;/p&gt;&#xA;&lt;p&gt;I am now working as a Blue Teamer in Security Engineering looking after security tools, applications and data gathering for the Security Operations Centre (SOC).&#xA;This site is about my journey and to provide some insight into how I walked my career path to help you walk yours hopefully.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
